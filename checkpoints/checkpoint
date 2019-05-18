@@ -1,0 +1,6 @@
+model_checkpoint_path: "/Users/travis/Desktop/WaterProject/finetune_alexnet_with_tensorflow-master/checkpoints/model_epoch20.ckpt"
+all_model_checkpoint_paths: "/Users/travis/Desktop/WaterProject/finetune_alexnet_with_tensorflow-master/checkpoints/model_epoch16.ckpt"
+all_model_checkpoint_paths: "/Users/travis/Desktop/WaterProject/finetune_alexnet_with_tensorflow-master/checkpoints/model_epoch17.ckpt"
+all_model_checkpoint_paths: "/Users/travis/Desktop/WaterProject/finetune_alexnet_with_tensorflow-master/checkpoints/model_epoch18.ckpt"
+all_model_checkpoint_paths: "/Users/travis/Desktop/WaterProject/finetune_alexnet_with_tensorflow-master/checkpoints/model_epoch19.ckpt"
+all_model_checkpoint_paths: "/Users/travis/Desktop/WaterProject/finetune_alexnet_with_tensorflow-master/checkpoints/model_epoch20.ckpt"
